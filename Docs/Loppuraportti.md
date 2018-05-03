@@ -3,7 +3,7 @@
 
 ### 2. Tietoa ohjelmasta
 - 2D platformer game
-- Alkuperäiset vaatimukset ReadMe.MD:ssä
+- Alkuperäiset vaatimukset [README.MD:ssä](https://github.com/Paanane/2D-Jumper/blob/master/README.md)
 
 #### Toteuttamatta jäänet vaatimukset:
   - Map editor
@@ -11,7 +11,7 @@
   - Eri characterer modelit
 
 ### 3. Kuvaruutukaappaukset tärkeimmistä käyttöliittymistä
-  screenshots -kansiossa
+  [screenshots](https://github.com/Paanane/2D-Jumper/tree/master/screenshots)-kansiossa
 
 ### 4. Ohjelman tarvitsemat /mukana tulevat tiedostot/tietokannat
 Toimii millä tahansa tietokannalla, sql-komennot löytyvät "resources/sql"-kansiosta
