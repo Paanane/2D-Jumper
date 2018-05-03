@@ -14,7 +14,7 @@
   screenshots -kansiossa
 
 ### 4. Ohjelman tarvitsemat /mukana tulevat tiedostot/tietokannat
-Toimii millä tahansa tietokannalla, sql-komennot löytyvät resources/sql -kansiosta
+Toimii millä tahansa tietokannalla, sql-komennot löytyvät "resources/sql"-kansiosta
 Lisää oman tietokannan login-string "sqlConnection.txt"-tiedostoon
 
 ### 5. Tiedossa olevat ongelmat ja bugit sekä jatkokehitysideat
